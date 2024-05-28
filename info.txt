@@ -1,0 +1,6 @@
+Detached HEAD State:
+A “detached HEAD” state occurs when you check out a specific commit (usually by its hash or tag) instead of a branch.
+In this state, you are not on any branch; you’re directly on a specific commit.
+It’s common when viewing historical commits or working with tags.
+However, you cannot make new commits directly in this state.
+To exit the detached HEAD state, create a new branch or switch to an existing branch using git checkout.
